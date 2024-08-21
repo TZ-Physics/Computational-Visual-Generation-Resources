@@ -1,17 +1,22 @@
 # Computational-Optical-Visual-Generation-Resources
 
-## Computational Illumination 
+## Illumination
+
+**Deep neural models for illumination estimation and relighting: A survey.**<br>
+*F Einabadi, JY Guillemaut, A Hilton.*<br>
+Computer Graphics Forum, 2021.
 
 **Lightit: Illumination modeling and control for diffusion models.**<br>
 *P Kocsis, J Philip, K Sunkavalli, M Nießner, Y Hold-Geoffroy.*<br>
 CVPR, 2024.
 [[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Kocsis_LightIt_Illumination_Modeling_and_Control_for_Diffusion_Models_CVPR_2024_paper.pdf)]
 
-## Neural Rendering
+**Retinex-Diffusion: On Controlling Illumination Conditions in Diffusion Models via Retinex Theory.**<br>
+*X Xing, VT Hu, JH Metzen, K Groh, S Karaoglu, T Gevers.*<br>
+arXiv:2407.20785, 2024.
+[[ArXiv](https://arxiv.org/pdf/2407.20785)]
 
-**awesome neural rendering.**<br>
-*Deep image or video generation approaches that enable explicit or implicit control of scene properties such as illumination, camera parameters, pose, geometry, appearance, and semantic structure..*<br>
-[[Github](https://github.com/weihaox/awesome-neural-rendering)]
+## Neural Rendering
 
 **Neural scene representation and rendering.**<br>
 *SMA Eslami, DJ Rezende, F Besse, F Viola, et al.*<br>
@@ -49,3 +54,7 @@ CVPR, 2021.[[Github](https://github.com/princeton-computational-imaging/neural-s
 **ACORN: Adaptive Coordinate Networks for Neural Scene Representation.**<br>
 *JJNP Martel, DB Lindell, CZ Lin, ER Chan, et al.*<br>
 SIGGRAPH, 2021.[[Github](https://github.com/computational-imaging/ACORN)]
+
+**awesome neural rendering.**<br>
+*Deep image or video generation approaches that enable explicit or implicit control of scene properties such as illumination, camera parameters, pose, geometry, appearance, and semantic structure..*<br>
+[[Github](https://github.com/weihaox/awesome-neural-rendering)]
