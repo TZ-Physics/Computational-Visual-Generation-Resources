@@ -1,4 +1,4 @@
-# Computational-Light & Graphics-Resources
+# Computational-Optical-Visual-Generation-Resources
 
 ## Computational Illumination 
 
