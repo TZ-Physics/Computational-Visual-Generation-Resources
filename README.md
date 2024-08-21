@@ -1,6 +1,6 @@
-# Computational-Light-Field & Graphics-Resources
+# Computational-Light & Graphics-Resources
 
-## Light Field 
+## Computational Illumination 
 
 **Lightit: Illumination modeling and control for diffusion models.**<br>
 *P Kocsis, J Philip, K Sunkavalli, M Nießner, Y Hold-Geoffroy.*<br>
