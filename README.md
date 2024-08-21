@@ -1,19 +1,22 @@
-# Computational-Light-Field-Generation-Resources
+# Computational-Light-Field & Graphics-Resources
+
+## Light Field 
+
+**Lightit: Illumination modeling and control for diffusion models.**<br>
+*P Kocsis, J Philip, K Sunkavalli, M Nießner, Y Hold-Geoffroy.*<br>
+CVPR, 2024.
+[[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Kocsis_LightIt_Illumination_Modeling_and_Control_for_Diffusion_Models_CVPR_2024_paper.pdf)]
 
 ## Neural Rendering
-
-### Resources
 
 **awesome neural rendering.**<br>
 *Deep image or video generation approaches that enable explicit or implicit control of scene properties such as illumination, camera parameters, pose, geometry, appearance, and semantic structure..*<br>
 [[Github](https://github.com/weihaox/awesome-neural-rendering)]
- 
-### Implicit Neural Scene Representation and Rendering
 
 **Neural scene representation and rendering.**<br>
 *SMA Eslami, DJ Rezende, F Besse, F Viola, et al.*<br>
 Science, 2018.
-[[Github](https://github.com/deepmind/gqn-datasets.)]
+[[Github](https://github.com/deepmind/gqn-datasets)]
 
 **Deferred neural rendering: Image synthesis using neural textures.**<br>
 *J Thies, M Zollhöfer, M Nießner.*<br>
