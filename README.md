@@ -32,20 +32,6 @@ arXiv:2404.02101, 2024.
 arXiv:2406.10126, 2024.
 [[arXiv](https://arxiv.org/pdf/2406.10126)]
 
-## Scene Generation
-
-**Streetscapes: Large-scale Consistent Street View Generation Using Autoregressive Video Diffusion.**<br>
-*B Deng, R Tucker, Z Li, L Guibas, N Snavely, G Wetzstein.*<br>
-SIGGRAPH, 2024.
-
-**MegaScenes: Scene-Level View Synthesis at Scale.**<br>
-*J Tung, G Chou, R Cai, G Yang, K Zhang, G Wetzstein, B Hariharan, et al.*<br>
-ECCV, 2024.
-
-**Street-view image generation from a bird's-eye view layout.**<br>
-*A Swerdlow, R Xu, B Zhou.*<br>
-IEEE Robotics and Automation Letters, 2024.
-
 ## Neural Rendering
 
 **Neural scene representation and rendering.**<br>
@@ -126,3 +112,17 @@ CVPR, 2021.
 **SP-GAN: Sphere-guided 3D shape generation and manipulation.**<br>
 *R Li, X Li, KH Hui, CW Fu.*<br>
 ACM Transactions on Graphics (TOG), 2021.
+
+## Scene Generation
+
+**Streetscapes: Large-scale Consistent Street View Generation Using Autoregressive Video Diffusion.**<br>
+*B Deng, R Tucker, Z Li, L Guibas, N Snavely, G Wetzstein.*<br>
+SIGGRAPH, 2024.
+
+**MegaScenes: Scene-Level View Synthesis at Scale.**<br>
+*J Tung, G Chou, R Cai, G Yang, K Zhang, G Wetzstein, B Hariharan, et al.*<br>
+ECCV, 2024.
+
+**Street-view image generation from a bird's-eye view layout.**<br>
+*A Swerdlow, R Xu, B Zhou.*<br>
+IEEE Robotics and Automation Letters, 2024.
