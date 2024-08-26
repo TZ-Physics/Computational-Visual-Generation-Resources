@@ -32,6 +32,44 @@ arXiv:2404.02101, 2024.
 arXiv:2406.10126, 2024.
 [[arXiv](https://arxiv.org/pdf/2406.10126)]
 
+## Reconstruction
+
+**KinectFusion: real-time 3D reconstruction and interaction using a moving depth camera.**<br>
+*S Izadi, D Kim, O Hilliges, D Molyneaux, et al.*<br>
+UIST, 2011.
+
+**Soft 3D reconstruction for view synthesis.**<br>
+*E Penner, L Zhang.*<br>
+ACM Transactions on Graphics (TOG), 2017.
+
+**State of the Art on 3D Reconstruction with RGB‐D Cameras.**<br>
+*M Zollhöfer, P Stotko, A Görlitz, et al.*<br>
+Computer Graphics Forum, 2018.
+
+**State of the Art on 3D Reconstruction with RGB‐D Cameras.**<br>
+*M Zollhöfer, P Stotko, A Görlitz, et al.*<br>
+Computer Graphics Forum, 2018.
+
+**Disn: Deep implicit surface network for high-quality single-view 3d reconstruction.**<br>
+*Q Xu, W Wang, D Ceylan, R Mech, et al.*<br>
+NIPS, 2019.
+
+**Occupancy networks: Learning 3d reconstruction in function space.**<br>
+*L Mescheder, M Oechsle, M Niemeyer, et al.*<br>
+CVPR, 2019.
+
+**Fast Online 3D Reconstruction of Dynamic Scenes From Individual Single-Photon Detection Events.**<br>
+*Y Altmann, S McLaughlin, et al.*<br>
+IEEE Transactions on Signal Processing, 2019.
+
+**DI-Fusion: Online Implicit 3D Reconstruction with Deep Priors.**<br>
+*J Huang, SS Huang, H Song, et al.*<br>
+CVPR, 2021.
+
+**SP-GAN: Sphere-guided 3D shape generation and manipulation.**<br>
+*R Li, X Li, KH Hui, CW Fu.*<br>
+ACM Transactions on Graphics (TOG), 2021.
+
 ## Neural Rendering
 
 **Neural scene representation and rendering.**<br>
@@ -74,44 +112,6 @@ SIGGRAPH, 2021.[[Github](https://github.com/computational-imaging/ACORN)]
 **awesome neural rendering.**<br>
 *Deep image or video generation approaches that enable explicit or implicit control of scene properties such as illumination, camera parameters, pose, geometry, appearance, and semantic structure..*<br>
 [[Github](https://github.com/weihaox/awesome-neural-rendering)]
-
-## Reconstruction
-
-**KinectFusion: real-time 3D reconstruction and interaction using a moving depth camera.**<br>
-*S Izadi, D Kim, O Hilliges, D Molyneaux, et al.*<br>
-UIST, 2011.
-
-**Soft 3D reconstruction for view synthesis.**<br>
-*E Penner, L Zhang.*<br>
-ACM Transactions on Graphics (TOG), 2017.
-
-**State of the Art on 3D Reconstruction with RGB‐D Cameras.**<br>
-*M Zollhöfer, P Stotko, A Görlitz, et al.*<br>
-Computer Graphics Forum, 2018.
-
-**State of the Art on 3D Reconstruction with RGB‐D Cameras.**<br>
-*M Zollhöfer, P Stotko, A Görlitz, et al.*<br>
-Computer Graphics Forum, 2018.
-
-**Disn: Deep implicit surface network for high-quality single-view 3d reconstruction.**<br>
-*Q Xu, W Wang, D Ceylan, R Mech, et al.*<br>
-NIPS, 2019.
-
-**Occupancy networks: Learning 3d reconstruction in function space.**<br>
-*L Mescheder, M Oechsle, M Niemeyer, et al.*<br>
-CVPR, 2019.
-
-**Fast Online 3D Reconstruction of Dynamic Scenes From Individual Single-Photon Detection Events.**<br>
-*Y Altmann, S McLaughlin, et al.*<br>
-IEEE Transactions on Signal Processing, 2019.
-
-**DI-Fusion: Online Implicit 3D Reconstruction with Deep Priors.**<br>
-*J Huang, SS Huang, H Song, et al.*<br>
-CVPR, 2021.
-
-**SP-GAN: Sphere-guided 3D shape generation and manipulation.**<br>
-*R Li, X Li, KH Hui, CW Fu.*<br>
-ACM Transactions on Graphics (TOG), 2021.
 
 ## Scene Generation
 
