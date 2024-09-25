@@ -376,3 +376,31 @@ ECCV, 2024.
 **Street-view image generation from a bird's-eye view layout.**<br>
 *A Swerdlow, R Xu, B Zhou.*<br>
 IEEE Robotics and Automation Letters, 2024.
+
+## Immersive-Experiences
+
+### Vision Scene
+
+**Gaudi: A neural architect for immersive 3d scene generation.**<br>
+*MA Bautista, P Guo, S Abnar, et al.*<br>
+NeurIPS, 2022.
+
+**Text2immersion: Generative immersive scene with 3d gaussians.**<br>
+*H Ouyang, K Heal, S Lombardi, T Sun.*<br>
+arxiv:2312.09242, 2023.
+
+**DreamScene: 3D Gaussian-based Text-to-3D Scene Generation via Formation Pattern Sampling.**<br>
+*H Li, H Shi, W Zhang, W Wu, Y Liao, L Wang, et al.*<br>
+ArXiv, 2024. 
+
+### Audio Scene
+
+**Speak in the Scene: Diffusion-based Acoustic Scene Transfer toward Immersive Speech Generation.**<br>
+*M Kim, SW Chung, Y Ji, HG Kang, MS Choi.*<br>
+arxiv:2406.12688, 2024.
+
+### ASMR
+
+**Neural Moderation of ASMR Erotica Content in Social Networks.**<br>
+*Y Chen, D Jiang, C Tan, Y Song, C Zhang, L Chen.*<br>
+IEEE Transactions on Knowledge and Data Engineering, 2023.
