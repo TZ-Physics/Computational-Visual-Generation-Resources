@@ -211,12 +211,12 @@ SIGGRAPH, 2024.
 **Cameractrl: Enabling camera control for text-to-video generation.**<br>
 *H He, Y Xu, Y Guo, G Wetzstein, B Dai, H Li, C Yang.*<br>
 arXiv:2404.02101, 2024.
-[[arXiv](https://arxiv.org/pdf/2404.02101)]
+[[Paper](https://arxiv.org/pdf/2404.02101)]
 
 **Training-free Camera Control for Video Generation.**<br>
 *C Hou, G Wei, Y Zeng, Z Chen.*<br>
 arXiv:2406.10126, 2024.
-[[arXiv](https://arxiv.org/pdf/2406.10126)]
+[[Paper](https://arxiv.org/pdf/2406.10126)]
 
 ### Video Manipulation Detection
 
@@ -346,15 +346,18 @@ ACM Transactions on Graphics (TOG), 2019.
 
 **NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis.**<br>
 *B Mildenhall, PP Srinivasan, M Tancik, JT Barron, R Ramamoorthi, R Ng.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2003.08934)] [[Project](http://tancik.com/nerf)]
+ECCV 2020. 
+[[Paper](https://arxiv.org/abs/2003.08934)] [[Project](http://tancik.com/nerf)]
 
 **SIREN: Implicit Neural Representations with Periodic Activation Functions.**<br>
 *V Sitzmann, JNP Martel, AW Bergman, DB Lindell, et al.*<br>
-NeurIPS 2020 (Oral). [[PDF](https://arxiv.org/abs/2006.09661)][[Github](http://vsitzmann.github.io/siren/)]
+NeurIPS 2020 (Oral). 
+[[Paper](https://arxiv.org/abs/2006.09661)][[Github](http://vsitzmann.github.io/siren/)]
 
 **Neural Ray-Tracing: Learning Surfaces and Reflectance for Relighting and View Synthesis.**<br>
 *J Knodt, SH Baek, F Heide.*<br>
-ArXiv, 2021.[[Github](https://github.com/princeton-computational-imaging/neural_raytracing)]
+ArXiv, 2021.
+[[Github](https://github.com/princeton-computational-imaging/neural_raytracing)]
 
 **Autoint: Automatic integration for fast neural volume rendering.**<br>
 *DB Lindell, JNP Martel, et al.*<br>
@@ -392,6 +395,11 @@ ECCV, 2024.
 **Street-view image generation from a bird's-eye view layout.**<br>
 *A Swerdlow, R Xu, B Zhou.*<br>
 IEEE Robotics and Automation Letters, 2024.
+
+**UrbanWorld: An Urban World Model for 3D City Generation.**<br>
+*Yu Shang, Jiansheng Chen, Hangyu Fan, Jingtao Ding, Jie Feng, Yong Li.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2407.11965)]
 
 ## Immersive-Experiences
 
