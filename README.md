@@ -29,6 +29,12 @@ CVPR, 2019.
 *B Zhao, W Yin, L Meng, L Sigal.*<br>
 IJCV, 2020.
 
+**Posterlayout: A new benchmark and approach for content-aware visual-textual presentation layout.**<br>
+*HY Hsu, X He, Y Peng, H Kong, Q Zhang.*<br>
+CVPR, 2023.
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Hsu_PosterLayout_A_New_Benchmark_and_Approach_for_Content-Aware_Visual-Textual_Presentation_CVPR_2023_paper.pdf)]
+[[Github](https://github.com/PKU-ICST-MIPL/PosterLayout-CVPR2023)]
+
 ### Composition
 
 **Making images real again: A comprehensive survey on deep image composition.**<br>
@@ -36,8 +42,13 @@ IJCV, 2020.
 arXiv, 2021.
 [[Paper](https://arxiv.org/pdf/2106.14490)]
 
+**Shadow generation for composite image in real-world scenes.**<br>
+*Y Hong, L Niu, J Zhang.*<br>
+AAAI, 2022.
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/19974/19733)]
+
 **Current advances and future perspectives of image fusion: A comprehensive review.**<br>
-*S Karim, G Tong, J Li, A Qadir, U Farooq, Y Yu .*<br>
+*S Karim, G Tong, J Li, A Qadir, U Farooq, Y Yu.*<br>
 Information Fusion, 2023.
 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253522001518)]
 
@@ -67,7 +78,18 @@ arXiv:2403.08857, 2024.
 [[Paper](https://arxiv.org/pdf/2403.08857)]
 [[Github](https://hunyuan-dialoggen.github.io/)]
 
+**Prompt Highlighter: Interactive Control for Multi-Modal LLMs.**<br>
+*Y Zhang, S Qian, B Peng, S Liu, J Jia.*<br>
+CVPR, 2024.
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Prompt_Highlighter_Interactive_Control_for_Multi-Modal_LLMs_CVPR_2024_paper.pdf)]
+[[Github](https://github.com/dvlab-research/Prompt-Highlighter)]
+
 ### Diffusion
+
+**High-resolution image synthesis with latent diffusion models.**<br>
+*R Rombach, A Blattmann, D Lorenz, et al.*<br>
+CVPR, 2022.
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf)]
 
 **Layoutdiffusion: Controllable diffusion model for layout-to-image generation.**<br>
 *G Zheng, X Zhou, X Li, Z Qi, et al.*<br>
