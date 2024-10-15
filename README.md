@@ -331,10 +331,6 @@ ACM Transactions on Graphics (TOG), 2017.
 *M Zollhöfer, P Stotko, A Görlitz, et al.*<br>
 Computer Graphics Forum, 2018.
 
-**State of the Art on 3D Reconstruction with RGB‐D Cameras.**<br>
-*M Zollhöfer, P Stotko, A Görlitz, et al.*<br>
-Computer Graphics Forum, 2018.
-
 **Disn: Deep implicit surface network for high-quality single-view 3d reconstruction.**<br>
 *Q Xu, W Wang, D Ceylan, R Mech, et al.*<br>
 NIPS, 2019.
